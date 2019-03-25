@@ -5,6 +5,7 @@ This library is an early draft and a work in progress.
 
 It currently has:
 * code to parse and write Python data structures for Unicode data files from unicode.org
+* map files (Python data structures) for Unicode v11.0.0 as created by the parsers
 * functions to help with intentionally confusing characters (detect them or fix them)
 * Get the code blocks for a string
 * Show if a string has any characters in reserved blocks
